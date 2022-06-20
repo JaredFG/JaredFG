@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Jared Abraham Flores Guarneros 
+My name is Jared Abraham Flores Guarneros <br>
 Im currently studing Computer Science at Tec de Monterrey CEM  
 
 <!--
