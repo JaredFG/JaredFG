@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Jared Abraham Flores Guarneros 
-Im currently studing Computer Science at Tec de Monterrey CEM
+Im currently studing Computer Science at Tec de Monterrey CEM  
 
 <!--
 **JaredFG/JaredFG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
