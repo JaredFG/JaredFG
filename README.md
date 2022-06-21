@@ -10,6 +10,7 @@
 <h3 align="center">  Full Stack Solution with Amazon  </h3>
 <p align="center"><img src="https://github.com/JaredFG/JaredFG/blob/main/bankonnect.png" ></p>
 <p align="center"> Creation of a full stack application that uses the Amazon AWS modules in order to create an application that can provide a virtual call center where all the information can be easily accessible and can help reducing operating expenses and increase sales in conjunction with Amazon. Project Manager of the front-end area where I validate the interfaces and all the functionalities that the user will see, as well as in charge of the user interface and the user experience  </p>
+<p align="center"> https://github.com/Amazon-Connect-Equipo-1 </p>
 
 <h3 align="center">  Multiagents System with IBM </h3>
 <p align="center"><img src="https://github.com/JaredFG/JaredFG/blob/main/multiagentes.png" ></p>
