@@ -7,5 +7,7 @@ Im currently studing Computer Science at Tec de Monterrey CEM  <br>
 -    A01379868@tec.mx<br>
 -   https://www.linkedin.com/in/jared-abraham-flores-guarneros-5515a0191/ <br>
 This repository contains my most important projects, both academic and personal
-
+<br>
+<br>
+Wanna se some of my  games? check my page at Itch.io ------------>https://jaredfg.itch.io
 
