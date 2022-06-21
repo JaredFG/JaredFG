@@ -1,8 +1,23 @@
-### Hi there 👋
-My name is Jared Abraham Flores Guarneros <br>
-Im currently studing Computer Science at Tec de Monterrey CEM  <br>
-- 🔭 I’m currently working as a RPA developer at Itchi Services <br>
-- 🌱 I’m currently learning videogame development <br>
+
+<p align="center"><img src="https://github.com/JaredFG/JaredFG/blob/main/mario-pixel-art-hd-wallpaper-preview.jpg" ></p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px" height="30px">, I am Jared Flores </h1>
+<br>
+<p align="center"> I’m currently working as a RPA developer at Itchi Services   </p>
+<p align="center"> I’m currently learning videogame development  @ TEC CEM   </p>
+<h1 align="center">  My most important proyects  </h1>
+<h3 align="center">  Full Stack Solution with Amazon  </h3>
+<p align="center"><img src="https://github.com/JaredFG/JaredFG/blob/main/bankonnect.png" ></p>
+<p align="center"> Creation of a full stack application that uses the Amazon AWS modules in order to create an application that can provide a virtual call center where all the information can be easily accessible and can help reducing operating expenses and increase sales in conjunction with Amazon. Project Manager of the front-end area where I validate the interfaces and all the functionalities that the user will see, as well as in charge of the user interface and the user experience  </p>
+
+<h3 align="center">  Multiagents System with IBM </h3>
+<p align="center"><img src="https://github.com/JaredFG/JaredFG/blob/main/multiagentes.png" ></p>
+<p align="center"> Creation of an optimization model for road intersections in Unity, using multi-agents to simulate the interaction between drivers on the road. The simulation utilizes a model that optimize the behavior of traffic lights and communicate with other traffic lights to improve the traffic flow of the roads. Responsible for the design of the car models for the simulation and the city using Unity assets, as well for the implementation of the multi-agent system in Unity.  </p>
+
+<h3 align="center">  VideoGame development with Movimiento STEM  </h3>
+<p align="center"><img src="https://github.com/JaredFG/JaredFG/blob/main/coding.png" ></p>
+<p align="center"> Development of a video game focused on generating interest towards the STEM community and their skills, allowing the administrator to monitor progress through the database hosted on AWS. In charge of programming and development using Unity and networking for the connection with the database..  </p>
+
+
 - 📫 How to reach me:
 -    A01379868@tec.mx<br>
 -   https://www.linkedin.com/in/jared-abraham-flores-guarneros-5515a0191/ <br>
