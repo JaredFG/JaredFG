@@ -1,9 +1,11 @@
 
 <p align="center"><img src="https://github.com/JaredFG/JaredFG/blob/main/mario-pixel-art-hd-wallpaper-preview.jpg" ></p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px" height="30px">, I am Jared Flores </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="50px" height="50px">, I am Jared Flores </h1>
 <br>
 <p align="center"> I’m currently working as a RPA developer at Itchi Services   </p>
-<p align="center"> I’m currently learning videogame development  @ TEC CEM   </p>
+<p align="center"><img src="https://github.com/JaredFG/JaredFG/blob/main/rocket.png" ></p>
+<p align="center"> I’m currently learning videogame development  @ TEC CEM <img src="https://github.com/JaredFG/JaredFG/blob/main/unnamed%20(5).jpg" width="50px" height="50px">  </p>
+<p align="center"><img src="https://github.com/JaredFG/JaredFG/blob/main/forest.png" ></p>
 <h1 align="center">  My most important proyects  </h1>
 <h3 align="center">  Full Stack Solution with Amazon  </h3>
 <p align="center"><img src="https://github.com/JaredFG/JaredFG/blob/main/bankonnect.png" ></p>
@@ -17,6 +19,12 @@
 <p align="center"><img src="https://github.com/JaredFG/JaredFG/blob/main/coding.png" ></p>
 <p align="center"> Development of a video game focused on generating interest towards the STEM community and their skills, allowing the administrator to monitor progress through the database hosted on AWS. In charge of programming and development using Unity and networking for the connection with the database..  </p>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaredFG&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JaredFG&theme=chartreuse-dark"></p>
+
+<h2 align="center">  About Me  </h2>
+<p align="center"> Im a huge The Office Fan!</p>
+<p align="center"><img src="https://github.com/JaredFG/JaredFG/blob/main/dwight.png" width="200px" height="300px" ></p>
 
 - 📫 How to reach me:
 -    A01379868@tec.mx<br>
@@ -25,4 +33,6 @@ This repository contains my most important projects, both academic and personal
 <br>
 <br>
 Wanna se some of my  games? check my page at Itch.io ------------>https://jaredfg.itch.io
+<br>
+<p align="center"><img src="https://github.com/JaredFG/JaredFG/blob/main/wp7550953%20.png"   ></p>
 
