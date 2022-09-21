@@ -4,7 +4,7 @@
 <br>
 <p align="center"> I’m currently working as a RPA developer at Itchi Services   </p>
 <p align="center"><img src="https://github.com/JaredFG/JaredFG/blob/main/rocket.png" ></p>
-<p align="center"> I’m currently learning videogame development  @ TEC CEM <img src="https://github.com/JaredFG/JaredFG/blob/main/unnamed%20(5).jpg" width="50px" height="50px">  </p>
+<p align="center"> I’m currently learning videogame development  @ TEC MTY <img src="https://github.com/JaredFG/JaredFG/blob/main/unnamed%20(5).jpg" width="50px" height="50px">  </p>
 <p align="center"><img src="https://github.com/JaredFG/JaredFG/blob/main/forest.png" ></p>
 <h1 align="center">  My most important proyects  </h1>
 <h3 align="center">  Full Stack Solution with Amazon  </h3>
