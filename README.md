@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="50px" height="50px">, I am Jared Flores </h1>
 <br>
 <p align="center"> I’m a videogame developer and Font-end developer   </p>
-<p align="center"><img src="https://github.com/JaredFG/JaredFG/blob/main/rocket.png" ></p>
+
 <p align="center"> I studied Computer Science and Technology Engineer @ TEC MTY <img src="https://github.com/JaredFG/JaredFG/blob/main/unnamed%20(5).jpg" width="50px" height="50px">  </p>
 <p align="center"><img src="https://github.com/JaredFG/JaredFG/blob/main/forest.png" ></p>
 <h1 align="center">  My most important proyects  </h1>
